@@ -21,7 +21,7 @@ public class CoordPanel extends JPanel
 		int panelHeight = this.getHeight();
 		
 		
-		g.setColor(Color.black);
+		g.setColor(Color.blue);
 		g.drawOval(panelWidth/2, panelHeight/2, 5, 5);
 		Font myFont = new Font("Courier", Font.ITALIC, 10);
 		g.setFont(myFont);
