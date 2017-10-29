@@ -14,7 +14,7 @@ public class CoordPanel extends JPanel
 		this.setBackground(c);
 	}
 	
-	public void paintComponent(Graphics g
+	public void paintComponent(Graphics g)
 	{
 		super.paintComponent(g);
 		int panelWidth = this.getWidth();
